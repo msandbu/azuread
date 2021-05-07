@@ -1,3 +1,5 @@
+AzureAD Event ID List for SignInLogs
+
 	53003	Access has been blocked due to conditional access policies.	
 	65001	Application X doesn't have permission to access application Y or the permission has been revoked. Or The user or administrator has not consented to use the application with ID X. Send an interactive authorization request for this user and resource. Or The user or administrator has not consented to use the application with ID X. Send an authorization request to your tenant admin to act on behalf of the App : Y for Resource : Z.	
 	50155	Device authentication failed for this user.	
