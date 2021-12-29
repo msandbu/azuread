@@ -49,3 +49,4 @@
 	50020	User is unauthorized - unable to issue tokens because of version issue - issuer name is not specified - problems with issuer name (null -max length). Contact the app owner.	
 	50079	User needs to enroll for second factor authentication.	
 	50072	Users' needs to enroll for second factor authentication (interactive).
+        50053   Sign-in was blocked because it came from an IP address with malicious activity
